@@ -1,0 +1,21 @@
+{
+    "Name": "SaltBagRecipe",
+	"RequiredPowder": [
+    {
+      "Powder": "POWDER_Salt",
+      "QuantityInKilograms": 10.00
+    }
+	],
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_SaltBag",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 5,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None",
+	"CanIncreaseRepairSkill": false
+}
